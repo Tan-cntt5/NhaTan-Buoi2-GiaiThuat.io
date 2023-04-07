@@ -1,4 +1,4 @@
-//nguon:
+//nguon:https://code24h.com/de-quy-tuyen-tinh-linear-recursion-giai-thuat-de-quy-d41598.htm
 //vi du
 #include <iostream>
 using namespace std;
