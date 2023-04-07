@@ -1,3 +1,4 @@
+#nguon: https://freetuts.net/thuat-toan-tim-kiem-nhi-phan-2634.html
 vi du:
 Input : arr[] = {15, 20, 25, 30, 31, 44, 66}
         x = 25;
