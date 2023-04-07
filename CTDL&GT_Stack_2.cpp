@@ -1,4 +1,4 @@
-#Nguon:
+#Nguon: https://blog.luyencode.net/ngan-xep-stack/
 Vi Du: sử dụng stack vào bài toán kiểm tra dãy ngoặc có hợp lệ hay không.
   
 #include <stdio.h>
