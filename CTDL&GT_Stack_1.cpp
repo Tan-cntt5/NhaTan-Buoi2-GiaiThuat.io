@@ -1,4 +1,4 @@
-#nguon:
+#nguon: https://laptrinhtudau.com/cai-dat-ngan-xep-stack-bang-mang-c-c/
 Cai dat:
 #include <stdio.h>
 #define MAX 100
