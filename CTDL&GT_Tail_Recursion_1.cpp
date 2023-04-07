@@ -1,4 +1,4 @@
-//nguon:
+//nguon: https://freetuts.net/de-quy-duoi-tail-recursion-2951.html
 cai dat
 int UCLN(int m, int n){
   int r;
